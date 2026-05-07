@@ -7,11 +7,12 @@ This list contains tools and resources on observability. Want to contribute? Cre
 
 
 1. [Eyer ](https://eyer.ai/)- An AI-powered observability and AIOps platform designed to provide real-time insights into complex systems and applications
-2. [Datadog](https://www.datadoghq.com/): A cloud service that enables monitoring application performance metrics from multiple sources.
-3. [Instana](https://www.ibm.com/products/instana): An observability tool that provides real-time insights into application performance and infrastructure health.
-4. [Honeycomb](https://www.honeycomb.io/): An observability tool that helps in understanding complex systems by providing a unified view of metrics, logs, and traces.
-5. [Lightstep](https://docs.lightstep.com/): An observability tool that provides real-time insights into application performance and infrastructure health.
-6. [Retrace](https://stackify.com/retrace/): A tool that delivers real-time application performance monitoring and log analytics.
+2. [Middleware](https://middleware.io/): Middleware is a full-stack observability platform that detects issues from infra, APM, RUM and resolves them using the AI SRE Agent.
+3. [Datadog](https://www.datadoghq.com/): A cloud service that enables monitoring application performance metrics from multiple sources.
+4. [Instana](https://www.ibm.com/products/instana): An observability tool that provides real-time insights into application performance and infrastructure health.
+5. [Honeycomb](https://www.honeycomb.io/): An observability tool that helps in understanding complex systems by providing a unified view of metrics, logs, and traces.
+6. [Lightstep](https://docs.lightstep.com/): An observability tool that provides real-time insights into application performance and infrastructure health.
+7. [Retrace](https://stackify.com/retrace/): A tool that delivers real-time application performance monitoring and log analytics.
 
 
 ### Monitoring
