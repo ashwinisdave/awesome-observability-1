@@ -12,6 +12,7 @@ This list contains tools and resources on observability. Want to contribute? Cre
 4. [Honeycomb](https://www.honeycomb.io/): An observability tool that helps in understanding complex systems by providing a unified view of metrics, logs, and traces.
 5. [Lightstep](https://docs.lightstep.com/): An observability tool that provides real-time insights into application performance and infrastructure health.
 6. [Retrace](https://stackify.com/retrace/): A tool that delivers real-time application performance monitoring and log analytics.
+7. [Middleware](https://middleware.io/): Middleware is a full-stack observability platform that detects issues from infra, APM, RUM and resolves them using the AI SRE Agent.
 
 
 ### Monitoring
