@@ -12,6 +12,7 @@ This list contains tools and resources on observability. Want to contribute? Cre
 4. [Honeycomb](https://www.honeycomb.io/): An observability tool that helps in understanding complex systems by providing a unified view of metrics, logs, and traces.
 5. [Lightstep](https://docs.lightstep.com/): An observability tool that provides real-time insights into application performance and infrastructure health.
 6. [Retrace](https://stackify.com/retrace/): A tool that delivers real-time application performance monitoring and log analytics.
+7. [Respan](https://www.respan.ai/ai-gateway): A full-stack AI engineering platform for LLM and agent observability, with tracing, evals, prompt management, and a gateway across 250+ models.
 
 
 ### Monitoring
